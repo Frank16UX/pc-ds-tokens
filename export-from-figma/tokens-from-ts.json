@@ -3191,28 +3191,38 @@
     }
   },
   "Ratios": {
-    "ratios": {
-      "2-3": {
+    "vertical": {
+      "2:3": {
         "value": "'2 / 3'",
         "type": "other"
       },
-      "16-9": {
-        "value": "'16 / 9'",
+      "9:16": {
+        "value": "'9 / 16'",
         "type": "other"
       },
-      "16-5": {
-        "value": "'16 / 5'",
-        "type": "other"
-      },
-      "4-3": {
-        "value": "'4 / 3'",
-        "type": "other"
-      },
-      "3-4": {
+      "3:4": {
         "value": "'3 / 4'",
         "type": "other"
       },
-      "1-1": {
+      "1:1": {
+        "value": "'1 / 1'",
+        "type": "other"
+      }
+    },
+    "horizontal": {
+      "3:2": {
+        "value": "'3 / 2'",
+        "type": "other"
+      },
+      "16:9": {
+        "value": "'16 / 9'",
+        "type": "other"
+      },
+      "4:3": {
+        "value": "'4 / 3'",
+        "type": "other"
+      },
+      "1:1": {
         "value": "'1 / 1'",
         "type": "other"
       }
@@ -3227,7 +3237,6 @@
       "Numeric Tokens",
       "Elevation",
       "Typography",
-      "Responsive",
       "Responsive/Desktop",
       "Responsive/Mobile",
       "Motion",
