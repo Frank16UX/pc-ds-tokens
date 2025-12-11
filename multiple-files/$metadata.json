@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "Primitives",
+    "Tokens",
+    "Numeric Tokens",
+    "Elevation",
+    "Fonts",
+    "Responsive/Desktop",
+    "Responsive/Mobile",
+    "Breakpoints",
+    "Ratios"
+  ]
+}

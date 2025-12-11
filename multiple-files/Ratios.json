@@ -1,0 +1,38 @@
+{
+  "vertical": {
+    "2:3": {
+      "$type": "other",
+      "$value": "'2 / 3'"
+    },
+    "9:16": {
+      "$type": "other",
+      "$value": "'9 / 16'"
+    },
+    "3:4": {
+      "$type": "other",
+      "$value": "'3 / 4'"
+    },
+    "1:1": {
+      "$type": "other",
+      "$value": "'1 / 1'"
+    }
+  },
+  "horizontal": {
+    "3:2": {
+      "$type": "other",
+      "$value": "'3 / 2'"
+    },
+    "16:9": {
+      "$type": "other",
+      "$value": "'16 / 9'"
+    },
+    "4:3": {
+      "$type": "other",
+      "$value": "'4 / 3'"
+    },
+    "1:1": {
+      "$type": "other",
+      "$value": "'1 / 1'"
+    }
+  }
+}

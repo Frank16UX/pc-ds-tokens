@@ -21,6 +21,15 @@ The repository contains the following design token files in the `export-from-fig
 
 All values in this repository have been **imported from Figma using the Tokens Studio plugin**. This ensures consistency with our design system and enables seamless synchronization.
 
+### Multiple JSONs per Collection
+
+The `multiple-files/` directory contains design tokens organized into **multiple JSON files per collection**. This structure has been added to support the **development conversion to SCSS**, enabling more modular and maintainable token management. Each collection (e.g., Breakpoints, Elevation, Fonts, Primitives, etc.) is stored in its own JSON file, making it easier to:
+
+- Convert tokens to SCSS variables and mixins
+- Maintain and update specific token categories independently
+- Improve build performance by loading only needed token sets
+- Enable better version control and collaboration
+
 ### Manual Adjustments
 
 Some values have been **manually added or modified** due to limitations in the Figma export process:
@@ -38,6 +47,19 @@ pc-design-tokens/
 ├── export-from-figma/
 │   ├── tokens-from-ts.json
 │   └── animation.json
+├── multiple-files/
+│   ├── $metadata.json
+│   ├── $themes.json
+│   ├── Breakpoints.json
+│   ├── Elevation.json
+│   ├── Fonts.json
+│   ├── Numeric Tokens.json
+│   ├── Primitives.json
+│   ├── Ratios.json
+│   ├── Responsive/
+│   │   ├── Desktop.json
+│   │   └── Mobile.json
+│   └── Tokens.json
 ├── .gitignore
 └── README.md
 ```
