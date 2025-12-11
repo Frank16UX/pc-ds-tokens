@@ -1,0 +1,458 @@
+{
+  "fonts": {
+    "primary": {
+      "name": {
+        "$type": "other",
+        "$value": "'Questa'"
+      },
+      "src": {
+        "0": {
+          "url": {
+            "$type": "other",
+            "$value": "'~design-system/assets/fonts/Questa_Regular.otf'"
+          },
+          "format": {
+            "$type": "other",
+            "$value": "'opentype'"
+          }
+        }
+      },
+      "fallbacks": {
+        "0": {
+          "$type": "other",
+          "$value": "'Times New Roman'"
+        },
+        "1": {
+          "$type": "other",
+          "$value": "Times"
+        },
+        "2": {
+          "$type": "other",
+          "$value": "serif"
+        }
+      },
+      "variants": {
+        "0": {
+          "weight": {
+            "$type": "other",
+            "$value": "300"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Light.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "1": {
+          "weight": {
+            "$type": "other",
+            "$value": "300"
+          },
+          "style": {
+            "$type": "other",
+            "$value": "italic"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Light_Italic.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "2": {
+          "weight": {
+            "$type": "other",
+            "$value": "500"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Medium.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "3": {
+          "weight": {
+            "$type": "other",
+            "$value": "500"
+          },
+          "style": {
+            "$type": "other",
+            "$value": "italic"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Medium_Italic.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "4": {
+          "weight": {
+            "$type": "other",
+            "$value": "700"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Bold.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "5": {
+          "weight": {
+            "$type": "other",
+            "$value": "700"
+          },
+          "style": {
+            "$type": "other",
+            "$value": "italic"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Bold_Italic.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "6": {
+          "weight": {
+            "$type": "other",
+            "$value": "900"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Black.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        },
+        "7": {
+          "weight": {
+            "$type": "other",
+            "$value": "900"
+          },
+          "style": {
+            "$type": "other",
+            "$value": "italic"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Questa_Black_Italic.otf'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'opentype'"
+              }
+            }
+          }
+        }
+      }
+    },
+    "secondary": {
+      "name": {
+        "$type": "other",
+        "$value": "'Lexend'"
+      },
+      "src": {
+        "0": {
+          "url": {
+            "$type": "other",
+            "$value": "'~design-system/assets/fonts/Lexend-Regular.woff2'"
+          },
+          "format": {
+            "$type": "other",
+            "$value": "'woff2'"
+          }
+        },
+        "1": {
+          "url": {
+            "$type": "other",
+            "$value": "'~design-system/assets/fonts/Lexend-Regular.woff'"
+          },
+          "format": {
+            "$type": "other",
+            "$value": "'woff'"
+          }
+        }
+      },
+      "fallbacks": {
+        "0": {
+          "$type": "other",
+          "$value": "'Arial'"
+        },
+        "1": {
+          "$type": "other",
+          "$value": "Helvetica"
+        },
+        "2": {
+          "$type": "other",
+          "$value": "sans-serif"
+        }
+      },
+      "variants": {
+        "0": {
+          "weight": {
+            "$type": "other",
+            "$value": "300"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Light.woff2'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff2'"
+              }
+            },
+            "1": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Light.woff'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff'"
+              }
+            }
+          }
+        },
+        "1": {
+          "weight": {
+            "$type": "other",
+            "$value": "500"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Medium.woff2'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff2'"
+              }
+            },
+            "1": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Medium.woff'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff'"
+              }
+            }
+          }
+        },
+        "2": {
+          "weight": {
+            "$type": "other",
+            "$value": "600"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-SemiBold.woff2'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff2'"
+              }
+            },
+            "1": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-SemiBold.woff'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff'"
+              }
+            }
+          }
+        },
+        "3": {
+          "weight": {
+            "$type": "other",
+            "$value": "700"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Bold.woff2'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff2'"
+              }
+            },
+            "1": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Bold.woff'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff'"
+              }
+            }
+          }
+        },
+        "4": {
+          "weight": {
+            "$type": "other",
+            "$value": "800"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-ExtraBold.woff2'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff2'"
+              }
+            },
+            "1": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-ExtraBold.woff'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff'"
+              }
+            }
+          }
+        },
+        "5": {
+          "weight": {
+            "$type": "other",
+            "$value": "900"
+          },
+          "src": {
+            "0": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Black.woff2'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff2'"
+              }
+            },
+            "1": {
+              "url": {
+                "$type": "other",
+                "$value": "'~design-system/assets/fonts/Lexend-Black.woff'"
+              },
+              "format": {
+                "$type": "other",
+                "$value": "'woff'"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "font-family": {
+    "primary": {
+      "$type": "fontFamilies",
+      "$value": "Questa"
+    },
+    "secondary": {
+      "$type": "fontFamilies",
+      "$value": "Lexend"
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "400"
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "700"
+    },
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "500"
+    }
+  },
+  "text-transform": {
+    "uppercase": {
+      "$type": "textCase",
+      "$value": "uppercase"
+    },
+    "none": {
+      "$type": "textCase",
+      "$value": "none"
+    }
+  },
+  "text-decoration": {
+    "underline": {
+      "$type": "textDecoration",
+      "$value": "underline"
+    },
+    "line-through": {
+      "$type": "textDecoration",
+      "$value": "line-through"
+    },
+    "none": {
+      "$type": "textDecoration",
+      "$value": "none"
+    }
+  }
+}
