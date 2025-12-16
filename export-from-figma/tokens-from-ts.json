@@ -896,6 +896,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.blue.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.blue.300}"
           }
         },
         "success": {
@@ -906,6 +910,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.green.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.green.400}"
           }
         },
         "warning": {
@@ -916,6 +924,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.orange.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.orange.400}"
           }
         },
         "emphasis": {
@@ -926,6 +938,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.purple.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.purple.400}"
           }
         }
       },
@@ -946,6 +962,22 @@
           "pressed": {
             "$type": "color",
             "$value": "{colors.gold.700}"
+          },
+          "default-inverted": {
+            "$type": "color",
+            "$value": "{colors.base.white}"
+          },
+          "hovered-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.50}"
+          },
+          "pressed-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.100}"
+          },
+          "disabled-inverted": {
+            "$type": "color",
+            "$value": "{colors.neutral.300}"
           }
         },
         "secondary": {
@@ -962,6 +994,22 @@
             "$value": "{colors.neutral.100}"
           },
           "default": {
+            "$type": "color",
+            "$value": "{colors.alpha.white.50}"
+          },
+          "default-inverted": {
+            "$type": "color",
+            "$value": "{colors.alpha.grey.50}"
+          },
+          "hovered-inverted": {
+            "$type": "color",
+            "$value": "{colors.alpha.white.100}"
+          },
+          "pressed-inverted": {
+            "$type": "color",
+            "$value": "{colors.alpha.white.200}"
+          },
+          "disabled-inverted": {
             "$type": "color",
             "$value": "{colors.alpha.white.50}"
           }
@@ -994,6 +1042,26 @@
           "hovered": {
             "$type": "color",
             "$value": "{colors.teal.800}"
+          },
+          "disabled-inverted": {
+            "$type": "color",
+            "$value": "{colors.neutral.500}"
+          },
+          "default-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.100}"
+          },
+          "hovered-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.200}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{colors.teal.900}"
+          },
+          "pressed-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.300}"
           }
         },
         "focus": {
@@ -1012,6 +1080,10 @@
           "error-inverted": {
             "$type": "color",
             "$value": "{colors.red.700}"
+          },
+          "accent-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.300}"
           }
         },
         "scroll": {
@@ -1040,6 +1112,26 @@
           "active": {
             "$type": "color",
             "$value": "{colors.neutral.900}"
+          },
+          "default-inverted": {
+            "$type": "color",
+            "$value": "{colors.neutral.300}"
+          },
+          "active-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.600}"
+          },
+          "error-inverted": {
+            "$type": "color",
+            "$value": "{colors.red.400}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{colors.neutral-tinted.700}"
+          },
+          "hover-inverted": {
+            "$type": "color",
+            "$value": "{colors.neutral-tinted.100}"
           }
         },
         "icon-button": {
@@ -1097,6 +1189,22 @@
         "pressed": {
           "$type": "color",
           "$value": "{colors.teal.900}"
+        },
+        "default-inverted": {
+          "$type": "color",
+          "$value": "{colors.teal.100}"
+        },
+        "hovered-inverted": {
+          "$type": "color",
+          "$value": "{colors.teal.200}"
+        },
+        "pressed-inverted": {
+          "$type": "color",
+          "$value": "{colors.teal.300}"
+        },
+        "disabled-inverted": {
+          "$type": "color",
+          "$value": "{colors.neutral.700}"
         }
       },
       "surface": {
@@ -1222,6 +1330,18 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.teal.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.300}"
+          },
+          "default-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.100}"
+          },
+          "on-surface-inverted": {
+            "$type": "color",
+            "$value": "{colors.teal.200}"
           }
         },
         "error": {
@@ -1232,6 +1352,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.red.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.red.400}"
           }
         },
         "info": {
@@ -1242,6 +1366,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.blue.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.blue.300}"
           }
         },
         "warning": {
@@ -1252,6 +1380,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.orange.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.orange.400}"
           }
         },
         "success": {
@@ -1262,6 +1394,10 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.green.900}"
+          },
+          "high-contrast-inverted": {
+            "$type": "color",
+            "$value": "{colors.green.400}"
           }
         },
         "emphasis": {
@@ -1272,6 +1408,20 @@
           "high-contrast": {
             "$type": "color",
             "$value": "{colors.purple.900}"
+          }
+        },
+        "subtle": {
+          "primary": {
+            "$type": "color",
+            "$value": "{colors.neutral-tinted.400}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{colors.neutral-tinted.600}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{colors.neutral.300}"
           }
         }
       },
@@ -1509,50 +1659,6 @@
           }
         }
       }
-    },
-    "focus-fx": {
-      "default": {
-        "$type": "boxShadow",
-        "$value": [
-          {
-            "color": "{colors.base.white}",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "2"
-          },
-          {
-            "color": "{colors.neutral.900}",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "6"
-          }
-        ]
-      },
-      "error": {
-        "$type": "boxShadow",
-        "$value": [
-          {
-            "color": "{colors.base.white}",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "2"
-          },
-          {
-            "color": "{color.border.focus.error}",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "6"
-          }
-        ]
-      }
     }
   },
   "Numeric Tokens": {
@@ -1600,20 +1706,20 @@
     },
     "radius": {
       "square": {
-        "$type": "dimension",
+        "$type": "borderRadius",
         "$value": "{scale.0}"
       },
       "sm": {
-        "$type": "dimension",
+        "$type": "borderRadius",
         "$value": "{scale.custom.min}"
       },
       "md": {
-        "$type": "dimension",
+        "$type": "borderRadius",
         "$value": "{scale.2}"
       },
       "full": {
-        "$type": "dimension",
-        "$value": "{scale.custom.max}"
+        "$type": "borderRadius",
+        "$value": "50%"
       }
     },
     "size": {
@@ -2349,7 +2455,8 @@
             "fontSize": "{typescale.font-size.10xl}",
             "lineHeight": "{typescale.line-height.10xl}",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-display-xl"
         },
         "lg": {
           "$type": "typography",
@@ -2996,7 +3103,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.primary}",
-            "fontWeight": "{font-weight.medium-italic}",
+            "fontWeight": "Medium Italic",
             "fontSize": "{typescale.font-size.10xl}",
             "lineHeight": "{typescale.line-height.10xl}",
             "paragraphSpacing": "20px"
@@ -3006,7 +3113,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.primary}",
-            "fontWeight": "{font-weight.medium-italic}",
+            "fontWeight": "Medium Italic",
             "fontSize": "{typescale.font-size.9xl}",
             "lineHeight": "{typescale.line-height.9xl}",
             "paragraphSpacing": "20px"
@@ -3016,7 +3123,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.primary}",
-            "fontWeight": "{font-weight.medium-italic}",
+            "fontWeight": "Medium Italic",
             "fontSize": "{typescale.font-size.8xl}",
             "lineHeight": "{typescale.line-height.8xl}",
             "paragraphSpacing": "20px"
@@ -3026,7 +3133,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.primary}",
-            "fontWeight": "{font-weight.medium-italic}",
+            "fontWeight": "Medium Italic",
             "fontSize": "{typescale.font-size.7xl}",
             "lineHeight": "{typescale.line-height.7xl}",
             "paragraphSpacing": "20px"
@@ -3036,7 +3143,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.primary}",
-            "fontWeight": "{font-weight.medium-italic}",
+            "fontWeight": "Medium Italic",
             "fontSize": "{typescale.font-size.6xl}",
             "lineHeight": "{typescale.line-height.6xl}",
             "paragraphSpacing": "20px"
@@ -3322,212 +3429,6 @@
       }
     }
   },
-  "Motion": {
-    "durations": {
-      "productive": {
-        "xs": {
-          "$type": "other",
-          "$value": "150"
-        },
-        "sm": {
-          "$type": "other",
-          "$value": "250"
-        },
-        "md": {
-          "$type": "other",
-          "$value": "350"
-        },
-        "lg": {
-          "$type": "other",
-          "$value": "450"
-        },
-        "xl": {
-          "$type": "other",
-          "$value": "550"
-        },
-        "xxl": {
-          "$type": "other",
-          "$value": "650"
-        }
-      },
-      "expressive": {
-        "xs": {
-          "$type": "other",
-          "$value": "300"
-        },
-        "sm": {
-          "$type": "other",
-          "$value": "500"
-        },
-        "md": {
-          "$type": "other",
-          "$value": "700"
-        },
-        "lg": {
-          "$type": "other",
-          "$value": "900"
-        },
-        "xl": {
-          "$type": "other",
-          "$value": "1100"
-        },
-        "xxl": {
-          "$type": "other",
-          "$value": "1300"
-        }
-      }
-    },
-    "easings": {
-      "direct": {
-        "direct-curve": {
-          "0": {
-            "$type": "other",
-            "$value": "0.1"
-          },
-          "1": {
-            "$type": "other",
-            "$value": "0.25"
-          },
-          "2": {
-            "$type": "other",
-            "$value": "0.25"
-          },
-          "3": {
-            "$type": "other",
-            "$value": "1"
-          }
-        }
-      },
-      "indirect": {
-        "enter-curve": {
-          "0": {
-            "$type": "other",
-            "$value": "0.2"
-          },
-          "1": {
-            "$type": "other",
-            "$value": "0.6"
-          },
-          "2": {
-            "$type": "other",
-            "$value": "0.25"
-          },
-          "3": {
-            "$type": "other",
-            "$value": "1"
-          }
-        },
-        "exit-curve": {
-          "0": {
-            "$type": "other",
-            "$value": "0.65"
-          },
-          "1": {
-            "$type": "other",
-            "$value": "0"
-          },
-          "2": {
-            "$type": "other",
-            "$value": "0.75"
-          },
-          "3": {
-            "$type": "other",
-            "$value": "0"
-          }
-        },
-        "standard-curve": {
-          "0": {
-            "$type": "other",
-            "$value": "0.5"
-          },
-          "1": {
-            "$type": "other",
-            "$value": "0"
-          },
-          "2": {
-            "$type": "other",
-            "$value": "0"
-          },
-          "3": {
-            "$type": "other",
-            "$value": "1"
-          }
-        },
-        "linear-curve": {
-          "0": {
-            "$type": "other",
-            "$value": "0"
-          },
-          "1": {
-            "$type": "other",
-            "$value": "0"
-          },
-          "2": {
-            "$type": "other",
-            "$value": "1"
-          },
-          "3": {
-            "$type": "other",
-            "$value": "1"
-          }
-        }
-      }
-    },
-    "delays": {
-      "productive": {
-        "xs": {
-          "$type": "other",
-          "$value": "30"
-        },
-        "sm": {
-          "$type": "other",
-          "$value": "50"
-        },
-        "md": {
-          "$type": "other",
-          "$value": "70"
-        },
-        "lg": {
-          "$type": "other",
-          "$value": "90"
-        },
-        "xl": {
-          "$type": "other",
-          "$value": "110"
-        },
-        "xxl": {
-          "$type": "other",
-          "$value": "130"
-        }
-      },
-      "expressive": {
-        "xs": {
-          "$type": "other",
-          "$value": "60"
-        },
-        "sm": {
-          "$type": "other",
-          "$value": "100"
-        },
-        "md": {
-          "$type": "other",
-          "$value": "140"
-        },
-        "lg": {
-          "$type": "other",
-          "$value": "180"
-        },
-        "xl": {
-          "$type": "other",
-          "$value": "220"
-        },
-        "xxl": {
-          "$type": "other",
-          "$value": "260"
-        }
-      }
-    }
-  },
   "Breakpoints": {
     "breakpoints": {
       "xs": {
@@ -3559,38 +3460,6 @@
         "$type": "dimension",
         "$value": "1728px",
         "$description": "1728+ - Computers, TVs, laptops, premium tablets (FHD, 2K, 4K, 5K, 8K)"
-      }
-    }
-  },
-  "Z-Index": {
-    "z-index": {
-      "negative": {
-        "$type": "other",
-        "$value": "-1"
-      },
-      "basic": {
-        "$type": "other",
-        "$value": "1"
-      },
-      "lowest": {
-        "$type": "other",
-        "$value": "5"
-      },
-      "low": {
-        "$type": "other",
-        "$value": "25"
-      },
-      "intermediate": {
-        "$type": "other",
-        "$value": "50"
-      },
-      "high": {
-        "$type": "other",
-        "$value": "75"
-      },
-      "important": {
-        "$type": "other",
-        "$value": "100"
       }
     }
   },
@@ -3632,27 +3501,133 @@
       }
     }
   },
-  "Container": {
-    "container": {
-      "sm": {
-        "$type": "dimension",
-        "$value": "540px"
+  "Focus": {
+    "focus": {
+      "default": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "{color.background.default.solid}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2"
+          },
+          {
+            "color": "{color.border.focus.default}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "6"
+          }
+        ]
       },
-      "md": {
-        "$type": "dimension",
-        "$value": "752px"
+      "default-inverted": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "{color.background.default.static-black}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2"
+          },
+          {
+            "color": "{color.border.focus.accent-inverted}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "6"
+          }
+        ]
       },
-      "lg": {
-        "$type": "dimension",
-        "$value": "976px"
+      "accent": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "{color.background.default.solid}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2"
+          },
+          {
+            "color": "{color.border.focus.accent}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "6"
+          }
+        ]
       },
-      "xl": {
-        "$type": "dimension",
-        "$value": "1184px"
+      "accent-inverted": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "{color.background.default.static-black}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2"
+          },
+          {
+            "color": "{color.border.focus.accent-inverted}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "6"
+          }
+        ]
       },
-      "xxl": {
-        "$type": "dimension",
-        "$value": "1648px"
+      "error": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "{color.background.default.solid}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2"
+          },
+          {
+            "color": "{color.border.focus.error}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "6"
+          }
+        ]
+      },
+      "error-inverted": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "{color.background.default.static-black}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2"
+          },
+          {
+            "color": "{color.border.focus.error-inverted}",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "6"
+          }
+        ]
       }
     }
   },
@@ -3666,11 +3641,9 @@
       "Fonts",
       "Responsive/Desktop",
       "Responsive/Mobile",
-      "Motion",
       "Breakpoints",
-      "Z-Index",
       "Ratios",
-      "Container"
+      "Focus"
     ]
   }
 }
