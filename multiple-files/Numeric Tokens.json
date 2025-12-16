@@ -1,0 +1,118 @@
+{
+  "spacing": {
+    "none": {
+      "$type": "dimension",
+      "$value": "{scale.0}"
+    },
+    "2xs": {
+      "$type": "dimension",
+      "$value": "{scale.1}"
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "{scale.2}"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "{scale.3}"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "{scale.4}"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "{scale.6}"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "{scale.8}"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "{scale.10}"
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": "{scale.12}"
+    },
+    "4xl": {
+      "$type": "dimension",
+      "$value": "{scale.16}"
+    }
+  },
+  "radius": {
+    "square": {
+      "$type": "borderRadius",
+      "$value": "{scale.0}"
+    },
+    "sm": {
+      "$type": "borderRadius",
+      "$value": "{scale.custom.min}"
+    },
+    "md": {
+      "$type": "borderRadius",
+      "$value": "{scale.2}"
+    },
+    "full": {
+      "$type": "borderRadius",
+      "$value": "50%"
+    }
+  },
+  "size": {
+    "height": {
+      "lg": {
+        "$type": "dimension",
+        "$value": "{scale.12}"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "{scale.8}"
+      },
+      "xs": {
+        "$type": "dimension",
+        "$value": "{scale.6}"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "{scale.10}"
+      },
+      "icon": {
+        "sm": {
+          "$type": "dimension",
+          "$value": "{scale.5}"
+        },
+        "xs": {
+          "$type": "dimension",
+          "$value": "{scale.4}"
+        },
+        "md": {
+          "$type": "dimension",
+          "$value": "{scale.6}"
+        },
+        "lg": {
+          "$type": "dimension",
+          "$value": "{scale.8}"
+        },
+        "2xl": {
+          "$type": "dimension",
+          "$value": "{scale.16}"
+        },
+        "4xl": {
+          "$type": "dimension",
+          "$value": "{scale.20}"
+        }
+      }
+    },
+    "width": {
+      "button-mw-lg": {
+        "$type": "dimension",
+        "$value": "{scale.32}"
+      },
+      "button-mw-sm": {
+        "$type": "dimension",
+        "$value": "{scale.24}"
+      }
+    }
+  }
+}

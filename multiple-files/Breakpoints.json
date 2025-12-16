@@ -1,0 +1,34 @@
+{
+  "breakpoints": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "360px",
+      "$description": "360-575px - Phones"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "576px",
+      "$description": "576-767px - Phablets and small tablets"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "768px",
+      "$description": "768-991px - Tablets, windowed display"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "992px",
+      "$description": "992-1199px - Tablets, windowed display"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "1200px",
+      "$description": "1200-1727px - Computers, laptops, premium tablets, folding phones (HD/FHD)"
+    },
+    "xxl": {
+      "$type": "dimension",
+      "$value": "1728px",
+      "$description": "1728+ - Computers, TVs, laptops, premium tablets (FHD, 2K, 4K, 5K, 8K)"
+    }
+  }
+}
