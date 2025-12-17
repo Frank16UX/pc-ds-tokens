@@ -8,6 +8,7 @@
     "Responsive/Desktop",
     "Responsive/Mobile",
     "Breakpoints",
-    "Ratios"
+    "Ratios",
+    "Focus"
   ]
 }
