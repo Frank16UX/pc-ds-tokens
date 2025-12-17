@@ -787,10 +787,6 @@
         "$type": "dimension",
         "$value": "6px"
       },
-      "max": {
-        "$type": "dimension",
-        "$value": "1000px"
-      },
       "3a": {
         "$type": "dimension",
         "$value": "14px"

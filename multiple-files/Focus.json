@@ -1,0 +1,109 @@
+{
+  "focus": {
+    "default": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "color": "{color.background.default.solid}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
+        },
+        {
+          "color": "{color.border.focus.default}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "6"
+        }
+      ]
+    },
+    "default-inverted": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "color": "{color.background.default.static-black}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
+        },
+        {
+          "color": "{color.border.focus.accent-inverted}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "6"
+        }
+      ]
+    },
+    "accent": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "color": "{color.background.default.solid}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
+        },
+        {
+          "color": "{color.border.focus.accent}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "6"
+        }
+      ]
+    },
+    "error": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "color": "{color.background.default.solid}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
+        },
+        {
+          "color": "{color.border.focus.error}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "6"
+        }
+      ]
+    },
+    "error-inverted": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "color": "{color.background.default.static-black}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
+        },
+        {
+          "color": "{color.border.focus.error-inverted}",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "6"
+        }
+      ]
+    }
+  }
+}
