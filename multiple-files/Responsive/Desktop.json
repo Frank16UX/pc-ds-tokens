@@ -10,7 +10,7 @@
           "lineHeight": "{typescale.line-height.10xl}",
           "paragraphSpacing": "20px"
         },
-        "$description": "$desktop-typography-display-xl"
+        "$description": "$desktop-typography-display-xl\n\nUse for the largest display text in hero sections and major headings."
       },
       "lg": {
         "$type": "typography",
@@ -20,7 +20,8 @@
           "fontSize": "{typescale.font-size.9xl}",
           "lineHeight": "{typescale.line-height.9xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-display-lg\n\nUse for large display text in prominent hero sections."
       },
       "md": {
         "$type": "typography",
@@ -30,7 +31,8 @@
           "fontSize": "{typescale.font-size.8xl}",
           "lineHeight": "{typescale.line-height.8xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-display-md\n\nUse for medium display text in featured sections and banners."
       },
       "sm": {
         "$type": "typography",
@@ -40,7 +42,8 @@
           "fontSize": "{typescale.font-size.7xl}",
           "lineHeight": "{typescale.line-height.7xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-display-sm\n\nUse for smaller display text in secondary hero sections."
       },
       "xs": {
         "$type": "typography",
@@ -50,7 +53,8 @@
           "fontSize": "{typescale.font-size.6xl}",
           "lineHeight": "{typescale.line-height.6xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-display-xs\n\nUse for the smallest display text in tertiary featured content."
       }
     },
     "headline": {
@@ -62,7 +66,8 @@
           "fontSize": "{typescale.font-size.5xl}",
           "lineHeight": "{typescale.line-height.5xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-headline-xl\n\nUse for extra large section headlines and page titles."
       },
       "lg": {
         "$type": "typography",
@@ -72,7 +77,8 @@
           "fontSize": "{typescale.font-size.4xl}",
           "lineHeight": "{typescale.line-height.4xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-headline-lg\n\nUse for large section headlines and major content groupings."
       },
       "md": {
         "$type": "typography",
@@ -82,7 +88,8 @@
           "fontSize": "{typescale.font-size.3xl}",
           "lineHeight": "{typescale.line-height.3xl}",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-headline-md\n\nUse for medium section headlines and subsection titles."
       },
       "sm": {
         "$type": "typography",
@@ -92,7 +99,8 @@
           "fontSize": "{typescale.font-size.2xl}",
           "lineHeight": "120%",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-headline-sm\n\nUse for small section headlines and card titles."
       }
     },
     "price": {
@@ -104,7 +112,8 @@
           "fontSize": "{typescale.font-size.4xl}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-price-lg\n\nUse to display current product’s PDP."
       },
       "lg-strikethrough": {
         "$type": "typography",
@@ -115,7 +124,8 @@
           "lineHeight": "150%",
           "paragraphSpacing": "20px",
           "textDecoration": "{text-decoration.line-through}"
-        }
+        },
+        "$description": "$desktop-typography-price-lg-strikethrough\n\nUse for display previous product’s price on PDP."
       },
       "md": {
         "$type": "typography",
@@ -125,7 +135,8 @@
           "fontSize": "{typescale.font-size.2xl}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-price-md\n\nUse to display current product’s price on standard product cards."
       },
       "md-strikethrough": {
         "$type": "typography",
@@ -136,7 +147,8 @@
           "lineHeight": "150%",
           "paragraphSpacing": "20px",
           "textDecoration": "{text-decoration.line-through}"
-        }
+        },
+        "$description": "$desktop-typography-price-md-strikethrough\n\nUse to display previous product’s price on standard product cards."
       },
       "sm": {
         "$type": "typography",
@@ -146,9 +158,10 @@
           "fontSize": "{typescale.font-size.lg}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px"
-        }
+        },
+        "$description": "$desktop-typography-price-sm\n\nUse for small pricing display in compact layouts."
       },
-      "sm-srikethrough": {
+      "sm-strikethrough": {
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
@@ -157,7 +170,8 @@
           "lineHeight": "150%",
           "paragraphSpacing": "20px",
           "textDecoration": "{text-decoration.line-through}"
-        }
+        },
+        "$description": "$desktop-typography-price-sm-srikethrough\n\nUse for small crossed-out original prices in compact views."
       }
     },
     "text": {
@@ -170,7 +184,8 @@
             "fontSize": "{typescale.font-size.xl}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-xl-regular \n\nUse for extra large body text in introductory paragraphs."
         },
         "bold": {
           "$type": "typography",
@@ -180,7 +195,8 @@
             "fontSize": "{typescale.font-size.xl}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-xl-bold\n\nUse for emphasized extra large body text."
         },
         "underline": {
           "$type": "typography",
@@ -191,7 +207,8 @@
             "lineHeight": "150%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
-          }
+          },
+          "$description": "$desktop-typography-text-xl-underline\n\nUse for underlined extra large text links."
         }
       },
       "lg": {
@@ -203,7 +220,8 @@
             "fontSize": "{typescale.font-size.lg}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-lg-regular\n\nUse for large body text in feature descriptions."
         },
         "bold": {
           "$type": "typography",
@@ -213,7 +231,8 @@
             "fontSize": "{typescale.font-size.lg}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-lg-bold\n\nUse for emphasized large body text and subheadings."
         },
         "underline": {
           "$type": "typography",
@@ -224,7 +243,8 @@
             "lineHeight": "150%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
-          }
+          },
+          "$description": "$desktop-typography-text-lg-underline\n\nUse for underlined large text links."
         }
       },
       "md": {
@@ -236,7 +256,8 @@
             "fontSize": "{typescale.font-size.md}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-md-regular\n\nUse for standard body text and paragraph content."
         },
         "bold": {
           "$type": "typography",
@@ -246,7 +267,8 @@
             "fontSize": "{typescale.font-size.md}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-md-bold\n\nUse for emphasized medium body text and inline headings."
         },
         "underline": {
           "$type": "typography",
@@ -257,7 +279,8 @@
             "lineHeight": "150%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
-          }
+          },
+          "$description": "$desktop-typography-text-md-underline\n\nUse for underlined medium text links."
         }
       },
       "sm": {
@@ -269,7 +292,8 @@
             "fontSize": "{typescale.font-size.sm}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-sm-regular\n\nUse for small body text captions and secondary information."
         },
         "bold": {
           "$type": "typography",
@@ -279,7 +303,8 @@
             "fontSize": "{typescale.font-size.sm}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
-          }
+          },
+          "$description": "$desktop-typography-text-sm-bold\n\nUse for emphasized small text and labels."
         },
         "underline": {
           "$type": "typography",
@@ -290,11 +315,12 @@
             "lineHeight": "150%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
-          }
+          },
+          "$description": "$desktop-typography-text-sm-underline\n\nUse for underlined small text links and footnotes."
         }
       }
     },
-    "other": {
+    "utility": {
       "cta": {
         "md": {
           "$type": "typography",
@@ -304,7 +330,8 @@
             "fontSize": "{typescale.font-size.md}",
             "lineHeight": "100%",
             "paragraphSpacing": "0"
-          }
+          },
+          "$description": "$desktop-typography-utility-cta-md\n\nUse for for lg buttons."
         },
         "sm": {
           "$type": "typography",
@@ -314,7 +341,8 @@
             "fontSize": "{typescale.font-size.sm}",
             "lineHeight": "100%",
             "paragraphSpacing": "0"
-          }
+          },
+          "$description": "$desktop-typography-utility-cta-sm\n\nUse for sm buttons."
         }
       },
       "eyebrow": {
@@ -327,50 +355,59 @@
           "paragraphSpacing": "20px",
           "letterSpacing": "2%",
           "textCase": "{text-transform.uppercase}"
-        }
+        },
+        "$description": "$desktop-typography-utility-eyebrow\n\nUse for small uppercase labels above headlines and sections."
       }
     }
   },
   "section-padding": {
     "vertical": {
+      "xl": {
+        "$type": "number",
+        "$value": "{scale.32}",
+        "$description": "$desktop-section-padding-vertical-xl\n\nUse for extra large vertical spacing in hero and feature sections."
+      },
       "lg": {
         "$type": "number",
-        "$value": "{scale.20}"
+        "$value": "{scale.20}",
+        "$description": "$desktop-section-padding-vertical-lg\n\nUse for default vertical spacing (top and bottom padding) in major sections."
       },
       "md": {
         "$type": "number",
-        "$value": "{scale.16}"
+        "$value": "{scale.16}",
+        "$description": "$desktop-section-padding-vertical-md\n\nUse for medium vertical spacing in standard sections."
       },
       "sm": {
         "$type": "number",
-        "$value": "{scale.14}"
+        "$value": "{scale.14}",
+        "$description": "$desktop-section-padding-vertical-sm\n\nUse for small vertical spacing in compact sections."
       },
       "xs": {
         "$type": "number",
-        "$value": "{scale.10}"
-      },
-      "xl": {
-        "$type": "number",
-        "$value": "{scale.32}"
+        "$value": "{scale.10}",
+        "$description": "$desktop-section-padding-vertical-xs\n\nUse for extra small vertical spacing in tight layouts. Apply to top/bottom padding for adjacent sections with white bg."
       }
     },
     "horizontal": {
       "lg": {
         "$type": "number",
         "$value": "{scale.50}",
-        "$description": "Default horizontal padding"
-      },
-      "sm": {
-        "$type": "number",
-        "$value": "{scale.32}"
-      },
-      "xs": {
-        "$type": "number",
-        "$value": "{scale.24}"
+        "$description": "$desktop-section-padding-horizontal-lg\n\nDefault horizontal padding for main content areas."
       },
       "md": {
         "$type": "number",
-        "$value": "{scale.42}"
+        "$value": "{scale.42}",
+        "$description": "$desktop-section-padding-horizontal-md\n\nUse for medium horizontal padding in standard containers."
+      },
+      "sm": {
+        "$type": "number",
+        "$value": "{scale.32}",
+        "$description": "$desktop-section-padding-horizontal-sm\n\nUse for small horizontal padding in narrow containers."
+      },
+      "xs": {
+        "$type": "number",
+        "$value": "{scale.24}",
+        "$description": "$desktop-section-padding-horizontal-xs\n\nUse for extra small horizontal padding in compact layouts."
       }
     }
   },

@@ -2,37 +2,45 @@
   "vertical": {
     "2:3": {
       "$type": "other",
-      "$value": "'2 / 3'"
+      "$value": "'2 / 3'",
+      "$description": "Vertical 2:3 aspect ratio."
     },
     "9:16": {
       "$type": "other",
-      "$value": "'9 / 16'"
+      "$value": "'9 / 16'",
+      "$description": "Vertical 9:16 aspect ratio."
     },
     "3:4": {
       "$type": "other",
-      "$value": "'3 / 4'"
+      "$value": "'3 / 4'",
+      "$description": "Vertical 3:4 aspect ratio."
     },
     "1:1": {
       "$type": "other",
-      "$value": "'1 / 1'"
+      "$value": "'1 / 1'",
+      "$description": "Square aspect ratio. Default illustrations, product or recipe thumbnail, also used for avatar pictures."
     }
   },
   "horizontal": {
     "3:2": {
       "$type": "other",
-      "$value": "'3 / 2'"
+      "$value": "'3 / 2'",
+      "$description": "Horizontal 3:2 aspect ratio. Use it for illustrations or images on mobile, it's not restricted for desktop either."
     },
     "16:9": {
       "$type": "other",
-      "$value": "'16 / 9'"
+      "$value": "'16 / 9'",
+      "$description": "Horizontal 16:9 aspect ratio. Use it for featured images or product shots (mostly sets) where the cropping area affects visibility of the entire image."
     },
     "4:3": {
       "$type": "other",
-      "$value": "'4 / 3'"
+      "$value": "'4 / 3'",
+      "$description": "Horizontal 4:3. Default use for single images on Hero sections."
     },
     "1:1": {
       "$type": "other",
-      "$value": "'1 / 1'"
+      "$value": "'1 / 1'",
+      "$description": "Square aspect ratio. Default illustrations, product or recipe thumbnail, also used for avatar pictures."
     }
   }
 }

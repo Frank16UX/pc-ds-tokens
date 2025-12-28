@@ -19,7 +19,8 @@
           "blur": "0",
           "spread": "6"
         }
-      ]
+      ],
+      "$description": "Use for default focus ring."
     },
     "default-inverted": {
       "$type": "boxShadow",
@@ -40,7 +41,8 @@
           "blur": "0",
           "spread": "6"
         }
-      ]
+      ],
+      "$description": "Use for default focus ring on inverted surfaces."
     },
     "accent": {
       "$type": "boxShadow",
@@ -61,7 +63,8 @@
           "blur": "0",
           "spread": "6"
         }
-      ]
+      ],
+      "$description": "Use for the focus ring of highlighted components."
     },
     "error": {
       "$type": "boxShadow",
@@ -82,7 +85,8 @@
           "blur": "0",
           "spread": "6"
         }
-      ]
+      ],
+      "$description": "Use for the focus ring of error state components."
     },
     "error-inverted": {
       "$type": "boxShadow",
@@ -103,7 +107,8 @@
           "blur": "0",
           "spread": "6"
         }
-      ]
+      ],
+      "$description": "Use for the focus ring of error state components on inverted surfaces."
     }
   }
 }
