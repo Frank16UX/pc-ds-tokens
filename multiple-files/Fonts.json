@@ -410,11 +410,13 @@
   "font-family": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Questa"
+      "$value": "Questa",
+      "$description": "Use it for the primary typography styles (Displays, headings)."
     },
     "secondary": {
       "$type": "fontFamilies",
-      "$value": "Lexend"
+      "$value": "Lexend",
+      "$description": "Use it for the secondary typography styles (labels, body copy, captions, etc)."
     }
   },
   "font-weight": {
@@ -422,19 +424,20 @@
       "$type": "fontWeights",
       "$value": "400"
     },
-    "bold": {
-      "$type": "fontWeights",
-      "$value": "700"
-    },
     "medium": {
       "$type": "fontWeights",
       "$value": "500"
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "700"
     }
   },
   "text-transform": {
     "uppercase": {
       "$type": "textCase",
-      "$value": "uppercase"
+      "$value": "uppercase",
+      "$description": "Use it only for the Eyebrow typography style."
     },
     "none": {
       "$type": "textCase",
@@ -444,11 +447,13 @@
   "text-decoration": {
     "underline": {
       "$type": "textDecoration",
-      "$value": "underline"
+      "$value": "underline",
+      "$description": "Use it for links (text-underline styles)."
     },
     "line-through": {
       "$type": "textDecoration",
-      "$value": "line-through"
+      "$value": "line-through",
+      "$description": "Use it for the discounted price (text-strikethrough styles)."
     },
     "none": {
       "$type": "textDecoration",
