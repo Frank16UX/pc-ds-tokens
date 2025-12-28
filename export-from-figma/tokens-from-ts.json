@@ -2891,7 +2891,7 @@
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
-          "$description": "$desktop-typography-price-sm-srikethrough\n\nUse for small crossed-out original prices in compact views."
+          "$description": "$desktop-typography-price-sm-strikethrough\n\nUse for small crossed-out original prices in compact views."
         }
       },
       "text": {
@@ -3578,7 +3578,7 @@
           },
           "$description": "$mobile-typography-price-sm\n\nUse for small pricing display in compact layouts."
         },
-        "sm-srikethrough": {
+        "sm-strikethrough": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.secondary}",
@@ -3588,7 +3588,7 @@
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
-          "$description": "$mobile-typography-price-sm-srikethrough\n\nUse for small crossed-out original prices in compact views."
+          "$description": "$mobile-typography-price-sm-strikethrough\n\nUse for small crossed-out original prices in compact views."
         }
       },
       "text": {
