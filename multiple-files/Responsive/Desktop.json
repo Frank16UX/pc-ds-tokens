@@ -171,7 +171,7 @@
           "paragraphSpacing": "20px",
           "textDecoration": "{text-decoration.line-through}"
         },
-        "$description": "$desktop-typography-price-sm-srikethrough\n\nUse for small crossed-out original prices in compact views."
+        "$description": "$desktop-typography-price-sm-strikethrough\n\nUse for small crossed-out original prices in compact views."
       }
     },
     "text": {
