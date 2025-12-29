@@ -33,7 +33,7 @@
           "blur": "10",
           "spread": "0"
         },
-        "$description": "$elevation-component-header\n\nHeader nav bar."
+        "$description": "$elevation-component-header — Header nav bar."
       },
       "bottom-sheet": {
         "$type": "boxShadow",
@@ -45,7 +45,7 @@
           "blur": "16",
           "spread": "0"
         },
-        "$description": "$elevation-component-bottom-sheet\n\nBottom sheets, fixed elements to the bottom."
+        "$description": "$elevation-component-bottom-sheet — Bottom sheets, fixed elements to the bottom."
       },
       "bottom-sticky": {
         "$type": "boxShadow",
@@ -57,7 +57,7 @@
           "blur": "2",
           "spread": "0"
         },
-        "$description": "$elevation-component-pd-sticky-bar\n\nProduct details sticky bar."
+        "$description": "$elevation-component-pd-sticky-bar — Product details sticky bar."
       },
       "bottom-right": {
         "$type": "boxShadow",
@@ -69,7 +69,7 @@
           "blur": "12",
           "spread": "0"
         },
-        "$description": "$elevation-component-bottom-right\n\nHighlighted card overlays on the bottom right corner."
+        "$description": "$elevation-component-bottom-right — Highlighted card overlays on the bottom right corner."
       }
     },
     "sm": {
