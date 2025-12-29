@@ -328,7 +328,7 @@
         },
         "$description": "$mobile-typography-price-sm — Use for small pricing display in compact layouts."
       },
-      "sm-srikethrough": {
+      "sm-strikethrough": {
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
@@ -338,7 +338,7 @@
           "paragraphSpacing": "20px",
           "textDecoration": "{text-decoration.line-through}"
         },
-        "$description": "$mobile-typography-price-sm-srikethrough — Use for small crossed-out original prices in compact views."
+        "$description": "$mobile-typography-price-sm-strikethrough — Use for small crossed-out original prices in compact views."
       }
     },
     "text": {
