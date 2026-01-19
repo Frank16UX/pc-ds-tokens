@@ -2016,57 +2016,57 @@
             {
               "color": "#00000066",
               "type": "dropShadow",
-              "x": 0,
-              "y": 1,
-              "blur": 2,
-              "spread": 0
+              "x": "0",
+              "y": "1",
+              "blur": "2",
+              "spread": "0"
             },
             {
               "color": "#00000026",
               "type": "dropShadow",
-              "x": 0,
-              "y": 4,
-              "blur": 6,
-              "spread": 0
+              "x": "0",
+              "y": "4",
+              "blur": "6",
+              "spread": "0"
             }
           ],
-          "$description": "$elevation-component-primary-button\n\nUse it for Primary buttons."
+          "$description": "$elevation-component-primary-button — Use it for Primary buttons."
         },
         "header": {
           "$type": "boxShadow",
           "$value": {
             "color": "#0b191c0d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 10,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "10",
+            "spread": "0"
           },
-          "$description": "$elevation-component-header\n\nHeader nav bar."
+          "$description": "$elevation-component-header — Header nav bar."
         },
         "bottom-fixed": {
           "$type": "boxShadow",
           "$value": {
             "color": "#0b191c14",
             "type": "dropShadow",
-            "x": 0,
-            "y": -6,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "-6",
+            "blur": "16",
+            "spread": "0"
           },
-          "$description": "$elevation-component-bottom-sheet\n\nBottom sheets, fixed elements to the bottom."
+          "$description": "$elevation-component-bottom-sheet — Bottom sheets, fixed elements to the bottom."
         },
         "bottom-sticky-bar": {
           "$type": "boxShadow",
           "$value": {
             "color": "#0b191c0d",
             "type": "dropShadow",
-            "x": 0,
-            "y": -4,
-            "blur": 10,
-            "spread": 0
+            "x": "0",
+            "y": "-4",
+            "blur": "10",
+            "spread": "0"
           },
-          "$description": "$elevation-component-pd-sticky-bar\n\nProduct details sticky bar."
+          "$description": "$elevation-component-bottom-sticky-bar — Product details sticky bar."
         }
       },
       "sm": {
@@ -2075,53 +2075,53 @@
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1"
           },
           {
             "color": "#21212105",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 4,
-            "spread": 0
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0"
           },
           {
             "color": "#2121210a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 3,
-            "blur": 3,
-            "spread": 0
+            "x": "0",
+            "y": "3",
+            "blur": "3",
+            "spread": "0"
           },
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 1,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0"
           },
           {
             "color": "#21212114",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 1,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0"
           },
           {
             "color": "#21212114",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 20,
-            "spread": -6
+            "x": "0",
+            "y": "8",
+            "blur": "20",
+            "spread": "-6"
           }
         ],
-        "$description": "$elevation-sm\n\nSubtle elevation, tooltips, cards."
+        "$description": "$elevation-sm — Subtle elevation, tooltips, cards."
       },
       "md": {
         "$type": "boxShadow",
@@ -2129,53 +2129,53 @@
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1"
           },
           {
             "color": "#21212105",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 8,
-            "spread": 0
+            "x": "0",
+            "y": "8",
+            "blur": "8",
+            "spread": "0"
           },
           {
             "color": "#2121210a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 5,
-            "blur": 5,
-            "spread": 0
+            "x": "0",
+            "y": "5",
+            "blur": "5",
+            "spread": "0"
           },
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 3,
-            "blur": 3,
-            "spread": 0
+            "x": "0",
+            "y": "3",
+            "blur": "3",
+            "spread": "0"
           },
           {
             "color": "#21212114",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 1,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0"
           },
           {
             "color": "#2121211a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 0
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0"
           }
         ],
-        "$description": "$elevation-md\n\nDropdown menus."
+        "$description": "$elevation-md — Dropdown menus."
       },
       "lg": {
         "$type": "boxShadow",
@@ -2183,53 +2183,53 @@
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1"
           },
           {
             "color": "#21212105",
             "type": "dropShadow",
-            "x": 0,
-            "y": 16,
-            "blur": 16,
-            "spread": 0
+            "x": "0",
+            "y": "16",
+            "blur": "16",
+            "spread": "0"
           },
           {
             "color": "#2121210a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 10,
-            "blur": 10,
-            "spread": 0
+            "x": "0",
+            "y": "10",
+            "blur": "10",
+            "spread": "0"
           },
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 6,
-            "blur": 6,
-            "spread": 0
+            "x": "0",
+            "y": "6",
+            "blur": "6",
+            "spread": "0"
           },
           {
             "color": "#21212114",
             "type": "dropShadow",
-            "x": 0,
-            "y": 3,
-            "blur": 3,
-            "spread": 0
+            "x": "0",
+            "y": "3",
+            "blur": "3",
+            "spread": "0"
           },
           {
             "color": "#2121211a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 1,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0"
           }
         ],
-        "$description": "$elevation-lg\n\nSurfaced elements, panels."
+        "$description": "$elevation-lg — Surfaced elements, panels."
       },
       "xl": {
         "$type": "boxShadow",
@@ -2237,53 +2237,53 @@
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1"
           },
           {
             "color": "#21212105",
             "type": "dropShadow",
-            "x": 0,
-            "y": 32,
-            "blur": 32,
-            "spread": 0
+            "x": "0",
+            "y": "32",
+            "blur": "32",
+            "spread": "0"
           },
           {
             "color": "#2121210a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 20,
-            "blur": 20,
-            "spread": 0
+            "x": "0",
+            "y": "20",
+            "blur": "20",
+            "spread": "0"
           },
           {
             "color": "#2121210f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 12,
-            "blur": 12,
-            "spread": 0
+            "x": "0",
+            "y": "12",
+            "blur": "12",
+            "spread": "0"
           },
           {
             "color": "#21212114",
             "type": "dropShadow",
-            "x": 0,
-            "y": 5,
-            "blur": 5,
-            "spread": 0
+            "x": "0",
+            "y": "5",
+            "blur": "5",
+            "spread": "0"
           },
           {
             "color": "#2121211a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 1,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0"
           }
         ],
-        "$description": "$elevation-xl\n\nModals."
+        "$description": "$elevation-xl — Modals."
       }
     }
   },
