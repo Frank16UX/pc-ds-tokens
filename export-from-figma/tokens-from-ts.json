@@ -1473,7 +1473,7 @@
           },
           "high-contrast-inverted": {
             "$type": "color",
-            "$value": "{colors.red.400}",
+            "$value": "{colors.red.300}",
             "$description": "Use it to accompany helper texts in a component s error messages on inverted surface."
           }
         },
