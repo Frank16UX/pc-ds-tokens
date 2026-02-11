@@ -72,6 +72,11 @@
       "$value": "{scale.6}",
       "$description": "Use it only for Search Typeahead menus and pill shaped items (e.g Quantity Stepper)."
     },
+    "2xl": {
+      "$type": "borderRadius",
+      "$value": "{scale.12}",
+      "$description": "Use it for pill-shaped elements like buttons and chips."
+    },
     "full": {
       "$type": "borderRadius",
       "$value": "50%",

@@ -182,8 +182,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.xl}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-xl-regular  — Use for extra large body text in introductory paragraphs."
         },
@@ -193,8 +192,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.bold}",
             "fontSize": "{typescale.font-size.xl}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-xl-bold — Use for emphasized extra large body text."
         },
@@ -205,7 +203,6 @@
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.xl}",
             "lineHeight": "150%",
-            "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
           },
           "$description": "$desktop-typography-text-xl-underline — Use for underlined extra large text links."
@@ -218,8 +215,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.lg}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-lg-regular — Use for large body text in feature descriptions."
         },
@@ -229,8 +225,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.bold}",
             "fontSize": "{typescale.font-size.lg}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-lg-bold — Use for emphasized large body text and subheadings."
         },
@@ -241,7 +236,6 @@
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.lg}",
             "lineHeight": "150%",
-            "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
           },
           "$description": "$desktop-typography-text-lg-underline — Use for underlined large text links."
@@ -254,8 +248,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.md}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-md-regular — Use for standard body text and paragraph content."
         },
@@ -265,8 +258,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.bold}",
             "fontSize": "{typescale.font-size.md}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-md-bold — Use for emphasized medium body text and inline headings."
         },
@@ -277,7 +269,6 @@
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.md}",
             "lineHeight": "150%",
-            "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
           },
           "$description": "$desktop-typography-text-md-underline — Use for underlined medium text links."
@@ -290,8 +281,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.sm}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-sm-regular — Use for small body text captions and secondary information."
         },
@@ -301,8 +291,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.bold}",
             "fontSize": "{typescale.font-size.sm}",
-            "lineHeight": "150%",
-            "paragraphSpacing": "20px"
+            "lineHeight": "150%"
           },
           "$description": "$desktop-typography-text-sm-bold — Use for emphasized small text and labels."
         },
@@ -313,7 +302,6 @@
             "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.sm}",
             "lineHeight": "150%",
-            "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.underline}"
           },
           "$description": "$desktop-typography-text-sm-underline — Use for underlined small text links and footnotes."
@@ -328,8 +316,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.medium}",
             "fontSize": "{typescale.font-size.md}",
-            "lineHeight": "100%",
-            "paragraphSpacing": "0"
+            "lineHeight": "100%"
           },
           "$description": "$desktop-typography-utility-cta-md — Use for for lg buttons."
         },
@@ -339,8 +326,7 @@
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.medium}",
             "fontSize": "{typescale.font-size.sm}",
-            "lineHeight": "100%",
-            "paragraphSpacing": "0"
+            "lineHeight": "100%"
           },
           "$description": "$desktop-typography-utility-cta-sm — Use for sm buttons."
         }
