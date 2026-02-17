@@ -1826,118 +1826,116 @@
             "$description": "Used for accented icons or containers with stroke that requires higher contrast."
           }
         },
-        "semantic": {
-          "info": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-info-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.blue.600}",
-              "$description": "Color border for solid info elements (banners, containers)."
+        "info": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-info-solid"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-info-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.blue.300}",
-              "$description": "Color border for subtle info elements (banners, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.blue.600}",
+            "$description": "Color border for solid info elements (banners, containers)."
           },
-          "success": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-success-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.green.600}",
-              "$description": "Color border for solid success elements (banners, containers)."
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-info-subtle"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-success-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.green.300}",
-              "$description": "Color border for subtle success elements (banners, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.blue.300}",
+            "$description": "Color border for subtle info elements (banners, containers)."
+          }
+        },
+        "success": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-success-solid"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.green.600}",
+            "$description": "Color border for solid success elements (banners, containers)."
           },
-          "warning": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-warning-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.orange.600}",
-              "$description": "Color border for solid warning elements (banners, containers)."
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-success-subtle"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-warning-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.orange.300}",
-              "$description": "Color border for subtle warning elements (banners, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.green.300}",
+            "$description": "Color border for subtle success elements (banners, containers)."
+          }
+        },
+        "warning": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-warning-solid"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.orange.600}",
+            "$description": "Color border for solid warning elements (banners, containers)."
           },
-          "error": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-error-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.red.700}",
-              "$description": "Color border for solid error elements (tags, containers)."
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-warning-subtle"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "STROKE_COLOR"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-border-semantic-error-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.red.300}",
-              "$description": "Color border for subtle error elements (banners, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.orange.300}",
+            "$description": "Color border for subtle warning elements (banners, containers)."
+          }
+        },
+        "error": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-error-solid"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.red.700}",
+            "$description": "Color border for solid error elements (tags, containers)."
+          },
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "STROKE_COLOR"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-border-semantic-error-subtle"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.red.300}",
+            "$description": "Color border for subtle error elements (banners, containers)."
           }
         }
       },
@@ -2293,118 +2291,116 @@
             "$description": "Use it as an alternative background fill for sections that require a subtle warm background (e.g full-width promo banners, hero sections, etc)."
           }
         },
-        "semantic": {
-          "success": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-success-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.green.700}",
-              "$description": "Color background for solid success elements (tags, containers)."
+        "success": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-success-solid"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-success-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.green.50}",
-              "$description": "Color background for subtle success elements (tags, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.green.700}",
+            "$description": "Color background for solid success elements (tags, containers)."
           },
-          "info": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-info-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.blue.700}",
-              "$description": "Color background for solid info elements (tags, containers)."
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-success-subtle"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-info-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.blue.50}",
-              "$description": "Color background for subtle info elements (tags, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.green.50}",
+            "$description": "Color background for subtle success elements (tags, containers)."
+          }
+        },
+        "info": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-info-solid"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.blue.700}",
+            "$description": "Color background for solid info elements (tags, containers)."
           },
-          "warning": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-warning-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.orange.700}",
-              "$description": "Color background for solid warning elements (tags, containers)."
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-info-subtle"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-warning-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.orange.50}",
-              "$description": "Color background for subtle warning elements (tags, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.blue.50}",
+            "$description": "Color background for subtle info elements (tags, containers)."
+          }
+        },
+        "warning": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-warning-solid"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.orange.700}",
+            "$description": "Color background for solid warning elements (tags, containers)."
           },
-          "error": {
-            "solid": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-error-solid"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.red.800}",
-              "$description": "Color background for solid error elements (tags, containers)."
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-warning-subtle"
+              }
             },
-            "subtle": {
-              "$extensions": {
-                "com.figma.scopes": [
-                  "FRAME_FILL"
-                ],
-                "com.figma.codeSyntax": {
-                  "Web": "$color-background-semantic-error-subtle"
-                }
-              },
-              "$type": "color",
-              "$value": "{colors.red.50}",
-              "$description": "Color background for subtle error elements (tags, containers)."
-            }
+            "$type": "color",
+            "$value": "{colors.orange.50}",
+            "$description": "Color background for subtle warning elements (tags, containers)."
+          }
+        },
+        "error": {
+          "solid": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-error-solid"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.red.800}",
+            "$description": "Color background for solid error elements (tags, containers)."
+          },
+          "subtle": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-error-subtle"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.red.50}",
+            "$description": "Color background for subtle error elements (tags, containers)."
           }
         }
       },
