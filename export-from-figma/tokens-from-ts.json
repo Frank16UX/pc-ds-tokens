@@ -988,7 +988,7 @@
               }
             },
             "$type": "color",
-            "$value": "{colors.red.300}",
+            "$value": "{colors.red.400}",
             "$description": "Use for critical text on inverted surfaces."
           }
         },
@@ -2168,6 +2168,20 @@
       },
       "background": {
         "accent": {
+          "strongest": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL",
+                "SHAPE_FILL"
+              ],
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-accent-strongest"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.teal.900}",
+            "$description": "Used for the background fill or toast and darker elements."
+          },
           "strong": {
             "$extensions": {
               "com.figma.scopes": [
@@ -2595,7 +2609,7 @@
               }
             },
             "$type": "color",
-            "$value": "{colors.red.300}",
+            "$value": "{colors.red.400}",
             "$description": "Use it to accompany helper texts in a component's error messages on inverted surface."
           }
         },
