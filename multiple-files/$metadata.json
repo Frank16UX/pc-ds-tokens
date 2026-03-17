@@ -7,6 +7,13 @@
     "Fonts",
     "Responsive/Desktop",
     "Responsive/Mobile",
+    "Layout",
+    "Layout/xs",
+    "Layout/sm",
+    "Layout/md",
+    "Layout/lg",
+    "Layout/xl",
+    "Layout/xxl",
     "Breakpoints",
     "Ratios",
     "Focus"
