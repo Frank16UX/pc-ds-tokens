@@ -45,7 +45,7 @@
           "blur": "16",
           "spread": "0"
         },
-        "$description": "$elevation-component-bottom-sheet — Bottom sheets, fixed elements to the bottom."
+        "$description": "$elevation-component-bottom-fixed — Bottom sheets, fixed elements to the bottom."
       },
       "bottom-sticky-bar": {
         "$type": "boxShadow",

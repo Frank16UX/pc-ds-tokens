@@ -349,167 +349,415 @@
   "section-padding": {
     "vertical": {
       "xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-vertical-xl"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.32}",
-        "$description": "$desktop-section-padding-vertical-xl — Use for extra large vertical spacing in hero and feature sections."
+        "$description": "Use for extra large vertical spacing in hero and feature sections."
       },
       "lg": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-vertical-lg"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.20}",
-        "$description": "$desktop-section-padding-vertical-lg — Use for default vertical spacing (top and bottom padding) in major sections."
+        "$description": "Use for default vertical spacing (top and bottom padding) in major sections."
       },
       "md": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-vertical-md"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.16}",
-        "$description": "$desktop-section-padding-vertical-md — Use for medium vertical spacing in standard sections."
+        "$description": "Use for medium vertical spacing in standard sections."
       },
       "sm": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-vertical-sm"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.14}",
-        "$description": "$desktop-section-padding-vertical-sm — Use for small vertical spacing in compact sections."
+        "$description": "Use for small vertical spacing in compact sections."
       },
       "xs": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-vertical-xs"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.10}",
-        "$description": "$desktop-section-padding-vertical-xs — Use for extra small vertical spacing in tight layouts. Apply to top/bottom padding for adjacent sections with white bg."
+        "$description": "Use for extra small vertical spacing in tight layouts. Apply to top/bottom padding for adjacent sections with white bg."
       }
     },
     "horizontal": {
       "lg": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-horizontal-lg"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.50}",
-        "$description": "$desktop-section-padding-horizontal-lg — Default horizontal padding for main content areas."
+        "$description": "Default horizontal padding for main content areas."
       },
       "md": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-horizontal-md"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.42}",
-        "$description": "$desktop-section-padding-horizontal-md — Use for medium horizontal padding in standard containers."
+        "$description": "Use for medium horizontal padding in standard containers."
       },
       "sm": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-horizontal-sm"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.32}",
-        "$description": "$desktop-section-padding-horizontal-sm — Use for small horizontal padding in narrow containers."
+        "$description": "Use for small horizontal padding in narrow containers."
       },
       "xs": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "GAP"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$section-padding-horizontal-xs"
+          }
+        },
+        "$type": "dimension",
         "$value": "{scale.24}",
-        "$description": "$desktop-section-padding-horizontal-xs — Use for extra small horizontal padding in compact layouts."
+        "$description": "Use for extra small horizontal padding in compact layouts."
       }
     }
   },
   "typescale": {
     "font-size": {
       "xs": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-xs"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.3}",
-        "$description": "Text sm, CTA sm, Eyebrow"
+        "$description": "Text sm."
       },
       "sm": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-sm"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.custom.3a}",
-        "$description": "Text sm, CTA sm, Eyebrow"
+        "$description": "Text sm."
       },
       "md": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-md"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.4}",
-        "$description": "Text md, CTA md"
+        "$description": "Text md."
       },
       "lg": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-lg"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.custom.4a}",
-        "$description": "Text lg"
+        "$description": "Text lg."
       },
       "xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.5}",
-        "$description": "Text xl"
+        "$description": "Text xl."
       },
       "2xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-2xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.6}",
-        "$description": "Headline sm"
+        "$description": "Headline sm."
       },
       "3xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-3xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.custom.6a}",
-        "$description": "Headline md"
+        "$description": "Headline md."
       },
       "4xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-4xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.8}",
-        "$description": "Headline lg, Price"
+        "$description": "Headline lg."
       },
       "5xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-5xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.custom.8a}",
-        "$description": "Headline xl"
+        "$description": "Headline xl."
       },
       "6xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-6xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.10}",
-        "$description": "Headline 2xl"
+        "$description": "Headline 2xl."
       },
       "7xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-7xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.12}",
-        "$description": "Display xs"
+        "$description": "Display xs."
       },
       "8xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-8xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.16}",
-        "$description": "Display sm"
+        "$description": "Display sm."
       },
       "9xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-9xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.20}",
-        "$description": "Display md"
+        "$description": "Display md."
       },
       "10xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-font-size-10xl"
+          }
+        },
+        "$type": "fontSizes",
         "$value": "{scale.26}",
-        "$description": "Display lg"
+        "$description": "Display lg."
       }
     },
     "line-height": {
       "3xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-3xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.custom.7a}",
-        "$description": "Headline md"
+        "$description": "Headline md."
       },
       "4xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-4xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.custom.9a}",
-        "$description": "Headline lg, Price"
+        "$description": "Headline lg."
       },
       "5xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-5xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.custom.11a}",
-        "$description": "Headline xl"
+        "$description": "Headline xl."
       },
       "6xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-6xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.12}",
-        "$description": "Headline 2xl"
+        "$description": "Headline 2xl."
       },
       "7xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-7xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.12}",
-        "$description": "Display xs"
+        "$description": "Display xs."
       },
       "8xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-8xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.16}",
-        "$description": "Display sm"
+        "$description": "Display sm."
       },
       "9xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-9xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.20}",
-        "$description": "Display md"
+        "$description": "Display md."
       },
       "10xl": {
-        "$type": "number",
+        "$extensions": {
+          "com.figma.scopes": [
+            "LINE_HEIGHT"
+          ],
+          "com.figma.codeSyntax": {
+            "Web": "$typescale-line-height-10xl"
+          }
+        },
+        "$type": "lineHeights",
         "$value": "{scale.26}",
-        "$description": "Display lg"
+        "$description": "Display lg."
       }
     }
   }
