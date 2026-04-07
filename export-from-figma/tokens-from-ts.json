@@ -5835,7 +5835,9 @@
       "regular": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -5861,7 +5863,9 @@
       "wide": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -5887,7 +5891,9 @@
       "narrow": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -5917,7 +5923,9 @@
       "regular": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -5943,7 +5951,9 @@
       "wide": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -5969,7 +5979,9 @@
       "narrow": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -5999,7 +6011,9 @@
       "regular": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -6025,7 +6039,9 @@
       "wide": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -6051,7 +6067,9 @@
       "narrow": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -6081,7 +6099,9 @@
       "regular": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -6107,7 +6127,9 @@
       "wide": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
@@ -6133,7 +6155,9 @@
       "narrow": {
         "margin": {
           "$extensions": {
-            "com.figma.scopes": ["GAP"],
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
