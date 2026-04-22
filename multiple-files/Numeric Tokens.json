@@ -191,6 +191,19 @@
       "$value": "{scale.2}",
       "$description": "Medium corner radius (8px). Standard rounding for most components like inputs"
     },
+    "lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "CORNER_RADIUS"
+        ],
+        "com.figma.codeSyntax": {
+          "Web": "$radius-lg"
+        }
+      },
+      "$type": "borderRadius",
+      "$value": "{scale.6}",
+      "$description": "Large corner radius (24px). Use for Search Typeahead menus and pill-shaped items (e.g. Quantity Stepper)."
+    },
     "xl": {
       "$extensions": {
         "com.figma.scopes": [
@@ -201,21 +214,8 @@
         }
       },
       "$type": "borderRadius",
-      "$value": "{scale.6}",
-      "$description": "Use it only for Search Typeahead menus and pill shaped items (e.g Quantity Stepper)."
-    },
-    "2xl": {
-      "$extensions": {
-        "com.figma.scopes": [
-          "CORNER_RADIUS"
-        ],
-        "com.figma.codeSyntax": {
-          "Web": "$radius-2xl"
-        }
-      },
-      "$type": "borderRadius",
-      "$value": "{scale.12}",
-      "$description": "Use it for pill-shaped elements like buttons and chips."
+      "$value": "{scale.8}",
+      "$description": "Extra-large corner radius (32px). Use for Sheet top corners and decorative large-surface use cases."
     },
     "full": {
       "$extensions": {
@@ -227,8 +227,8 @@
         }
       },
       "$type": "borderRadius",
-      "$value": "50%",
-      "$description": "Fully rounded borders (pill-shaped buttons). Equals 1000px radius on Figma."
+      "$value": "1000px",
+      "$description": "Fully rounded borders for pill-shaped and circular elements. Browsers clamp border-radius to min(width, height) / 2, so this value produces a circle on square elements and a pill on rectangles."
     }
   },
   "size": {
