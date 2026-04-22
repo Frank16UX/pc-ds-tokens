@@ -4372,8 +4372,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.4xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.3xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px"
           },
           "$description": "$desktop-typography-price-lg — Use to display current product’s PDP."
@@ -4383,8 +4383,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.4xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.3xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
@@ -4395,8 +4395,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.2xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px"
           },
           "$description": "$desktop-typography-price-md — Use to display current product’s price on standard product cards."
@@ -4406,8 +4406,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.2xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
@@ -4417,7 +4417,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.secondary}",
-            "fontWeight": "{font-weight.medium}",
+            "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.lg}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
@@ -4435,6 +4435,29 @@
             "textDecoration": "{text-decoration.line-through}"
           },
           "$description": "$desktop-typography-price-sm-strikethrough — Use for small crossed-out original prices in compact views."
+        },
+        "xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{font-family.secondary}",
+            "fontWeight": "{font-weight.regular}",
+            "fontSize": "{typescale.font-size.md}",
+            "lineHeight": "150%",
+            "paragraphSpacing": "20px"
+          },
+          "$description": "$desktop-typography-price-xs — Use for the smallest pricing display in compact layouts."
+        },
+        "xs-strikethrough": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{font-family.secondary}",
+            "fontWeight": "{font-weight.regular}",
+            "fontSize": "{typescale.font-size.md}",
+            "lineHeight": "150%",
+            "paragraphSpacing": "20px",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "$description": "$desktop-typography-price-xs-strikethrough — Use for the smallest crossed-out original prices in compact views."
         }
       },
       "text": {
@@ -5074,8 +5097,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.4xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.2xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px"
           },
           "$description": "$mobile-typography-price-lg — Use to display current product's PDP."
@@ -5085,8 +5108,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.4xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.2xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
@@ -5097,8 +5120,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.2xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px"
           },
           "$description": "$mobile-typography-price-md — Use to display current product's price on standard product cards."
@@ -5108,8 +5131,8 @@
           "$value": {
             "fontFamily": "{font-family.secondary}",
             "fontWeight": "{font-weight.regular}",
-            "fontSize": "{typescale.font-size.2xl}",
-            "lineHeight": "150%",
+            "fontSize": "{typescale.font-size.xl}",
+            "lineHeight": "132%",
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
@@ -5119,7 +5142,7 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family.secondary}",
-            "fontWeight": "{font-weight.medium}",
+            "fontWeight": "{font-weight.regular}",
             "fontSize": "{typescale.font-size.lg}",
             "lineHeight": "150%",
             "paragraphSpacing": "20px"
@@ -5137,6 +5160,29 @@
             "textDecoration": "{text-decoration.line-through}"
           },
           "$description": "$mobile-typography-price-sm-strikethrough — Use for small crossed-out original prices in compact views."
+        },
+        "xs": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{font-family.secondary}",
+            "fontWeight": "{font-weight.regular}",
+            "fontSize": "{typescale.font-size.sm}",
+            "lineHeight": "150%",
+            "paragraphSpacing": "20px"
+          },
+          "$description": "$mobile-typography-price-xs — Use for the smallest pricing display in compact layouts."
+        },
+        "xs-strikethrough": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{font-family.secondary}",
+            "fontWeight": "{font-weight.regular}",
+            "fontSize": "{typescale.font-size.sm}",
+            "lineHeight": "150%",
+            "paragraphSpacing": "20px",
+            "textDecoration": "{text-decoration.line-through}"
+          },
+          "$description": "$mobile-typography-price-xs-strikethrough — Use for the smallest crossed-out original prices in compact views."
         }
       },
       "text": {
