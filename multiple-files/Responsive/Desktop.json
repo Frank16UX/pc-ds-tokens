@@ -373,9 +373,7 @@
     "vertical": {
       "xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-vertical-xl"
           }
@@ -386,9 +384,7 @@
       },
       "lg": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-vertical-lg"
           }
@@ -399,9 +395,7 @@
       },
       "md": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-vertical-md"
           }
@@ -412,9 +406,7 @@
       },
       "sm": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-vertical-sm"
           }
@@ -425,9 +417,7 @@
       },
       "xs": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-vertical-xs"
           }
@@ -440,9 +430,7 @@
     "horizontal": {
       "lg": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-horizontal-lg"
           }
@@ -453,9 +441,7 @@
       },
       "md": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-horizontal-md"
           }
@@ -466,9 +452,7 @@
       },
       "sm": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-horizontal-sm"
           }
@@ -479,9 +463,7 @@
       },
       "xs": {
         "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
+          "com.figma.scopes": ["GAP"],
           "com.figma.codeSyntax": {
             "Web": "$section-padding-horizontal-xs"
           }
@@ -496,9 +478,7 @@
     "font-size": {
       "xs": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-xs"
           }
@@ -509,9 +489,7 @@
       },
       "sm": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-sm"
           }
@@ -522,9 +500,7 @@
       },
       "md": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-md"
           }
@@ -535,9 +511,7 @@
       },
       "lg": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-lg"
           }
@@ -548,22 +522,18 @@
       },
       "xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-xl"
           }
         },
         "$type": "fontSizes",
-        "$value": "{scale.5}",
+        "$value": "{scale.5a}",
         "$description": "Text xl."
       },
       "2xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-2xl"
           }
@@ -574,9 +544,7 @@
       },
       "3xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-3xl"
           }
@@ -587,9 +555,7 @@
       },
       "4xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-4xl"
           }
@@ -600,9 +566,7 @@
       },
       "5xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-5xl"
           }
@@ -613,9 +577,7 @@
       },
       "6xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-6xl"
           }
@@ -626,9 +588,7 @@
       },
       "7xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-7xl"
           }
@@ -639,9 +599,7 @@
       },
       "8xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-8xl"
           }
@@ -652,9 +610,7 @@
       },
       "9xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-9xl"
           }
@@ -665,9 +621,7 @@
       },
       "10xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
+          "com.figma.scopes": ["FONT_SIZE"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-font-size-10xl"
           }
@@ -680,9 +634,7 @@
     "line-height": {
       "3xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-3xl"
           }
@@ -693,9 +645,7 @@
       },
       "4xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-4xl"
           }
@@ -706,9 +656,7 @@
       },
       "5xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-5xl"
           }
@@ -719,9 +667,7 @@
       },
       "6xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-6xl"
           }
@@ -732,9 +678,7 @@
       },
       "7xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-7xl"
           }
@@ -745,9 +689,7 @@
       },
       "8xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-8xl"
           }
@@ -758,9 +700,7 @@
       },
       "9xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-9xl"
           }
@@ -771,9 +711,7 @@
       },
       "10xl": {
         "$extensions": {
-          "com.figma.scopes": [
-            "LINE_HEIGHT"
-          ],
+          "com.figma.scopes": ["LINE_HEIGHT"],
           "com.figma.codeSyntax": {
             "Web": "$typescale-line-height-10xl"
           }
