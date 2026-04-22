@@ -108,7 +108,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.2xl}",
           "lineHeight": "132%",
           "paragraphSpacing": "20px"
@@ -119,7 +119,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.2xl}",
           "lineHeight": "132%",
           "paragraphSpacing": "20px",
@@ -131,7 +131,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.xl}",
           "lineHeight": "132%",
           "paragraphSpacing": "20px"
@@ -142,7 +142,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.xl}",
           "lineHeight": "132%",
           "paragraphSpacing": "20px",
@@ -154,7 +154,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.lg}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px"
@@ -165,7 +165,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.lg}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px",
@@ -177,7 +177,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.sm}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px"
@@ -188,7 +188,7 @@
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family.secondary}",
-          "fontWeight": "{font-weight.regular}",
+          "fontWeight": "{font-weight.medium}",
           "fontSize": "{typescale.font-size.sm}",
           "lineHeight": "150%",
           "paragraphSpacing": "20px",
