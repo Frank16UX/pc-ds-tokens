@@ -6420,8 +6420,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 358
+          "$type": "string",
+          "$value": "100%"
         }
       }
     }
@@ -6520,8 +6520,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 528
+          "$type": "string",
+          "$value": "100%"
         }
       }
     }
@@ -6620,8 +6620,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 704
+          "$type": "string",
+          "$value": "100%"
         }
       }
     }
@@ -6720,8 +6720,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 864
+          "$type": "string",
+          "$value": "100%"
         }
       }
     }
