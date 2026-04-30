@@ -28,8 +28,8 @@
           ],
           "com.figma.hiddenFromPublishing": false
         },
-        "$type": "number",
-        "$value": 896
+        "$type": "string",
+        "$value": "100%"
       }
     },
     "wide": {
@@ -60,8 +60,8 @@
           ],
           "com.figma.hiddenFromPublishing": false
         },
-        "$type": "number",
-        "$value": 928
+        "$type": "string",
+        "$value": "100%"
       }
     },
     "narrow": {

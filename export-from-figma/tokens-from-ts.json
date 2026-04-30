@@ -6356,8 +6356,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 358
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "wide": {
@@ -6388,8 +6388,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 358
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "narrow": {
@@ -6456,8 +6456,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 528
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "wide": {
@@ -6488,8 +6488,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 528
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "narrow": {
@@ -6556,8 +6556,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 704
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "wide": {
@@ -6588,8 +6588,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 704
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "narrow": {
@@ -6656,8 +6656,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 896
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "wide": {
@@ -6688,8 +6688,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "number",
-          "$value": 928
+          "$type": "string",
+          "$value": "100%"
         }
       },
       "narrow": {
