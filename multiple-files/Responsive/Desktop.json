@@ -436,60 +436,6 @@
         "$value": "{scale.10}",
         "$description": "Use for extra small vertical spacing in tight layouts. Apply to top/bottom padding for adjacent sections with white bg."
       }
-    },
-    "horizontal": {
-      "lg": {
-        "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
-          "com.figma.codeSyntax": {
-            "Web": "$section-padding-horizontal-lg"
-          }
-        },
-        "$type": "dimension",
-        "$value": "{scale.50}",
-        "$description": "Default horizontal padding for main content areas."
-      },
-      "md": {
-        "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
-          "com.figma.codeSyntax": {
-            "Web": "$section-padding-horizontal-md"
-          }
-        },
-        "$type": "dimension",
-        "$value": "{scale.42}",
-        "$description": "Use for medium horizontal padding in standard containers."
-      },
-      "sm": {
-        "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
-          "com.figma.codeSyntax": {
-            "Web": "$section-padding-horizontal-sm"
-          }
-        },
-        "$type": "dimension",
-        "$value": "{scale.32}",
-        "$description": "Use for small horizontal padding in narrow containers."
-      },
-      "xs": {
-        "$extensions": {
-          "com.figma.scopes": [
-            "GAP"
-          ],
-          "com.figma.codeSyntax": {
-            "Web": "$section-padding-horizontal-xs"
-          }
-        },
-        "$type": "dimension",
-        "$value": "{scale.24}",
-        "$description": "Use for extra small horizontal padding in compact layouts."
-      }
     }
   },
   "typescale": {

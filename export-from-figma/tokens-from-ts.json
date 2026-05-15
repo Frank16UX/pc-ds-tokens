@@ -1040,7 +1040,7 @@
                 "TEXT_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-text-sucess-default"
+                "Web": "$color-text-success-default"
               }
             },
             "$type": "color",
@@ -1053,7 +1053,7 @@
                 "TEXT_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-text-sucess-high-contrast"
+                "Web": "$color-text-success-high-contrast"
               }
             },
             "$type": "color",
@@ -1066,7 +1066,7 @@
                 "TEXT_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-text-sucess-high-contrast-inverted"
+                "Web": "$color-text-success-high-contrast-inverted"
               }
             },
             "$type": "color",
@@ -1833,7 +1833,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-info-solid"
+                "Web": "$color-border-info-solid"
               }
             },
             "$type": "color",
@@ -1846,7 +1846,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-info-subtle"
+                "Web": "$color-border-info-subtle"
               }
             },
             "$type": "color",
@@ -1861,7 +1861,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-success-solid"
+                "Web": "$color-border-success-solid"
               }
             },
             "$type": "color",
@@ -1874,7 +1874,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-success-subtle"
+                "Web": "$color-border-success-subtle"
               }
             },
             "$type": "color",
@@ -1889,7 +1889,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-warning-solid"
+                "Web": "$color-border-warning-solid"
               }
             },
             "$type": "color",
@@ -1902,7 +1902,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-warning-subtle"
+                "Web": "$color-border-warning-subtle"
               }
             },
             "$type": "color",
@@ -1917,7 +1917,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-error-solid"
+                "Web": "$color-border-error-solid"
               }
             },
             "$type": "color",
@@ -1930,7 +1930,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-border-semantic-error-subtle"
+                "Web": "$color-border-error-subtle"
               }
             },
             "$type": "color",
@@ -2376,7 +2376,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-success-solid"
+                "Web": "$color-background-success-solid"
               }
             },
             "$type": "color",
@@ -2390,7 +2390,7 @@
               ],
               "com.figma.hiddenFromPublishing": false,
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-success-base"
+                "Web": "$color-background-success-base"
               }
             },
             "$type": "color",
@@ -2403,7 +2403,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-success-subtle"
+                "Web": "$color-background-success-subtle"
               }
             },
             "$type": "color",
@@ -2418,7 +2418,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-info-solid"
+                "Web": "$color-background-info-solid"
               }
             },
             "$type": "color",
@@ -2432,7 +2432,7 @@
               ],
               "com.figma.hiddenFromPublishing": false,
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-info-base"
+                "Web": "$color-background-info-base"
               }
             },
             "$type": "color",
@@ -2445,7 +2445,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-info-subtle"
+                "Web": "$color-background-info-subtle"
               }
             },
             "$type": "color",
@@ -2460,7 +2460,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-warning-solid"
+                "Web": "$color-background-warning-solid"
               }
             },
             "$type": "color",
@@ -2474,7 +2474,7 @@
               ],
               "com.figma.hiddenFromPublishing": false,
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-warning-base"
+                "Web": "$color-background-warning-base"
               }
             },
             "$type": "color",
@@ -2487,7 +2487,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-warning-subtle"
+                "Web": "$color-background-warning-subtle"
               }
             },
             "$type": "color",
@@ -2502,7 +2502,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-error-solid"
+                "Web": "$color-background-error-solid"
               }
             },
             "$type": "color",
@@ -2516,7 +2516,7 @@
               ],
               "com.figma.hiddenFromPublishing": false,
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-error-base"
+                "Web": "$color-background-error-base"
               }
             },
             "$type": "color",
@@ -2529,7 +2529,7 @@
                 "FRAME_FILL"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-background-semantic-error-subtle"
+                "Web": "$color-background-error-subtle"
               }
             },
             "$type": "color",
@@ -3105,7 +3105,7 @@
                 "STROKE_COLOR"
               ],
               "com.figma.codeSyntax": {
-                "Web": "$color-graphics-complementary-11"
+                "Web": "$color-graphics-complementary-10"
               }
             },
             "$type": "color",
@@ -5309,60 +5309,6 @@
           "$value": "{scale.10}",
           "$description": "Use for extra small vertical spacing in tight layouts. Apply to top/bottom padding for adjacent sections with white bg."
         }
-      },
-      "horizontal": {
-        "lg": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-lg"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.50}",
-          "$description": "Default horizontal padding for main content areas."
-        },
-        "md": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-md"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.42}",
-          "$description": "Use for medium horizontal padding in standard containers."
-        },
-        "sm": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-sm"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.32}",
-          "$description": "Use for small horizontal padding in narrow containers."
-        },
-        "xs": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-xs"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.24}",
-          "$description": "Use for extra small horizontal padding in compact layouts."
-        }
       }
     },
     "typescale": {
@@ -6095,60 +6041,6 @@
           "$type": "dimension",
           "$value": "{scale.8}",
           "$description": "Use for extra small vertical spacing in tight layouts. Apply to top/bottom padding for adjacent sections with white bg."
-        }
-      },
-      "horizontal": {
-        "lg": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-lg"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.12}",
-          "$description": "Default horizontal padding for main content areas."
-        },
-        "md": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-md"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.6}",
-          "$description": "Use for medium horizontal padding in standard containers."
-        },
-        "sm": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-sm"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.6}",
-          "$description": "Use for small horizontal padding in narrow containers."
-        },
-        "xs": {
-          "$extensions": {
-            "com.figma.scopes": [
-              "GAP"
-            ],
-            "com.figma.codeSyntax": {
-              "Web": "$section-padding-horizontal-xs"
-            }
-          },
-          "$type": "dimension",
-          "$value": "{scale.4}",
-          "$description": "Use for extra small horizontal padding in compact layouts."
         }
       }
     },
