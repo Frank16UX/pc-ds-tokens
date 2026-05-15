@@ -2395,6 +2395,20 @@
             "$type": "color",
             "$value": "{colors.green.50}",
             "$description": "Color background for subtle success elements (tags, containers)."
+          },
+          "base": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.hiddenFromPublishing": false,
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-success-base"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.green.200}",
+            "$description": "Middle color background for subtle success elements (tags, containers)."
           }
         },
         "info": {
@@ -2423,6 +2437,20 @@
             "$type": "color",
             "$value": "{colors.blue.50}",
             "$description": "Color background for subtle info elements (tags, containers)."
+          },
+          "base": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.hiddenFromPublishing": false,
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-info-base"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.blue.200}",
+            "$description": "Middle color background for subtle info elements (tags, containers)."
           }
         },
         "warning": {
@@ -2451,6 +2479,20 @@
             "$type": "color",
             "$value": "{colors.orange.50}",
             "$description": "Color background for subtle warning elements (tags, containers)."
+          },
+          "base": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.hiddenFromPublishing": false,
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-warning-base"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.orange.200}",
+            "$description": "Middle color background for subtle warning elements (tags, containers)."
           }
         },
         "error": {
@@ -2479,6 +2521,20 @@
             "$type": "color",
             "$value": "{colors.red.50}",
             "$description": "Color background for subtle error elements (tags, containers)."
+          },
+          "base": {
+            "$extensions": {
+              "com.figma.scopes": [
+                "FRAME_FILL"
+              ],
+              "com.figma.hiddenFromPublishing": false,
+              "com.figma.codeSyntax": {
+                "Web": "$color-background-semantic-error-base"
+              }
+            },
+            "$type": "color",
+            "$value": "{colors.red.200}",
+            "$description": "Middle color background for subtle error elements (tags, containers)."
           }
         }
       },
