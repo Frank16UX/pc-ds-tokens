@@ -6732,8 +6732,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$type": "string",
-          "$value": "100%"
+          "$type": "number",
+          "$value": 864
         }
       }
     }
