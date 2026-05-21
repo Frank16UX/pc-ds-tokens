@@ -6713,7 +6713,7 @@
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
-          "$value": "{scale.8}"
+          "$value": "{scale.12}"
         },
         "gap": {
           "$extensions": {
@@ -6813,7 +6813,7 @@
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
-          "$value": "{scale.8}"
+          "$value": "{scale.16}"
         },
         "gap": {
           "$extensions": {
@@ -6913,7 +6913,7 @@
             "com.figma.hiddenFromPublishing": false
           },
           "$type": "number",
-          "$value": "{scale.8}"
+          "$value": "{scale.16}"
         },
         "gap": {
           "$extensions": {
