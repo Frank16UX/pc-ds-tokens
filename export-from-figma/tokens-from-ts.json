@@ -6894,7 +6894,7 @@
               "Web": "$container-regular-max-width"
             },
             "com.figma.scopes": [
-              "TEXT_CONTENT"
+              "WIDTH_HEIGHT"
             ]
           },
           "$type": "number",
