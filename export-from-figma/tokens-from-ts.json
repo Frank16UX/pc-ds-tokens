@@ -2131,7 +2131,7 @@
           },
           "$type": "color",
           "$value": "{colors.neutral.50}",
-          "$description": "Used for the fill color for elevated elements that needs a subtle contrast against the background\u2026"
+          "$description": "Used for the fill color for elevated elements that needs a subtle contrast against the background…"
         },
         "tinted-1": {
           "$extensions": {
@@ -4986,7 +4986,7 @@
             "lineHeight": "132%",
             "paragraphSpacing": "20px"
           },
-          "$description": "$desktop-typography-price-lg — Use to display current product\u2019s PDP."
+          "$description": "$desktop-typography-price-lg — Use to display current product’s PDP."
         },
         "lg-strikethrough": {
           "$type": "typography",
@@ -4998,7 +4998,7 @@
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
-          "$description": "$desktop-typography-price-lg-strikethrough — Use for display previous product\u2019s price on PDP."
+          "$description": "$desktop-typography-price-lg-strikethrough — Use for display previous product’s price on PDP."
         },
         "md": {
           "$type": "typography",
@@ -5009,7 +5009,7 @@
             "lineHeight": "132%",
             "paragraphSpacing": "20px"
           },
-          "$description": "$desktop-typography-price-md — Use to display current product\u2019s price on standard product cards."
+          "$description": "$desktop-typography-price-md — Use to display current product’s price on standard product cards."
         },
         "md-strikethrough": {
           "$type": "typography",
@@ -5021,7 +5021,7 @@
             "paragraphSpacing": "20px",
             "textDecoration": "{text-decoration.line-through}"
           },
-          "$description": "$desktop-typography-price-md-strikethrough — Use to display previous product\u2019s price on standard product cards."
+          "$description": "$desktop-typography-price-md-strikethrough — Use to display previous product’s price on standard product cards."
         },
         "sm": {
           "$type": "typography",
@@ -6337,13 +6337,13 @@
       }
     }
   },
-  "Layout": {},
   "Layout/xs": {
     "container": {
       "regular": {
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6377,7 +6377,7 @@
               "Web": "$container-regular-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6385,6 +6385,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6418,7 +6419,7 @@
               "Web": "$container-wide-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6426,6 +6427,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6459,7 +6461,7 @@
               "Web": "$container-narrow-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       }
@@ -6471,6 +6473,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6504,7 +6507,7 @@
               "Web": "$container-regular-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6512,6 +6515,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6545,7 +6549,7 @@
               "Web": "$container-wide-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6553,6 +6557,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6586,7 +6591,7 @@
               "Web": "$container-narrow-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       }
@@ -6598,7 +6603,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6631,7 +6637,7 @@
               "Web": "$container-regular-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6639,7 +6645,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6672,7 +6679,7 @@
               "Web": "$container-wide-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6680,7 +6687,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6713,7 +6721,7 @@
               "Web": "$container-narrow-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       }
@@ -6725,7 +6733,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6758,7 +6767,7 @@
               "Web": "$container-regular-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6766,7 +6775,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6799,7 +6809,7 @@
               "Web": "$container-wide-max-width"
             }
           },
-          "$type": "string",
+          "$type": "number",
           "$value": "100%"
         }
       },
@@ -6807,7 +6817,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6852,7 +6863,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6877,23 +6889,24 @@
         },
         "max-width": {
           "$extensions": {
-            "com.figma.scopes": [
-              "WIDTH_HEIGHT"
-            ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
               "Web": "$container-regular-max-width"
-            }
+            },
+            "com.figma.scopes": [
+              "TEXT_CONTENT"
+            ]
           },
           "$type": "number",
-          "$value": 1312
+          "$value": "100%"
         }
       },
       "wide": {
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6927,14 +6940,15 @@
             }
           },
           "$type": "number",
-          "$value": 1376
+          "$value": "100%"
         }
       },
       "narrow": {
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6979,7 +6993,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -7020,7 +7035,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -7061,7 +7077,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -7352,7 +7369,6 @@
       "Fonts",
       "Responsive/Desktop",
       "Responsive/Mobile",
-      "Layout",
       "Layout/xs",
       "Layout/sm",
       "Layout/md",

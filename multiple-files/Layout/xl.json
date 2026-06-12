@@ -4,6 +4,7 @@
       "padding": {
         "$extensions": {
           "com.figma.scopes": [
+            "WIDTH_HEIGHT",
             "GAP"
           ],
           "com.figma.hiddenFromPublishing": false,
@@ -29,22 +30,23 @@
       },
       "max-width": {
         "$extensions": {
-          "com.figma.scopes": [
-            "WIDTH_HEIGHT"
-          ],
           "com.figma.hiddenFromPublishing": false,
           "com.figma.codeSyntax": {
             "Web": "$container-regular-max-width"
-          }
+          },
+          "com.figma.scopes": [
+            "TEXT_CONTENT"
+          ]
         },
         "$type": "number",
-        "$value": 1312
+        "$value": "100%"
       }
     },
     "wide": {
       "padding": {
         "$extensions": {
           "com.figma.scopes": [
+            "WIDTH_HEIGHT",
             "GAP"
           ],
           "com.figma.hiddenFromPublishing": false,
@@ -79,13 +81,14 @@
           }
         },
         "$type": "number",
-        "$value": 1376
+        "$value": "100%"
       }
     },
     "narrow": {
       "padding": {
         "$extensions": {
           "com.figma.scopes": [
+            "WIDTH_HEIGHT",
             "GAP"
           ],
           "com.figma.hiddenFromPublishing": false,
