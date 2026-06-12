@@ -6337,13 +6337,13 @@
       }
     }
   },
-  "Layout": {},
   "Layout/xs": {
     "container": {
       "regular": {
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6385,6 +6385,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6426,6 +6427,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6471,6 +6473,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6512,6 +6515,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6553,6 +6557,7 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
+              "WIDTH_HEIGHT",
               "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
@@ -6598,7 +6603,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6639,7 +6645,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6680,7 +6687,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6725,7 +6733,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6766,7 +6775,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6807,7 +6817,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6852,7 +6863,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6893,7 +6905,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6934,7 +6947,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -6979,7 +6993,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -7020,7 +7035,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -7061,7 +7077,8 @@
         "padding": {
           "$extensions": {
             "com.figma.scopes": [
-              "WIDTH_HEIGHT"
+              "WIDTH_HEIGHT",
+              "GAP"
             ],
             "com.figma.hiddenFromPublishing": false,
             "com.figma.codeSyntax": {
@@ -7352,7 +7369,6 @@
       "Fonts",
       "Responsive/Desktop",
       "Responsive/Mobile",
-      "Layout",
       "Layout/xs",
       "Layout/sm",
       "Layout/md",
