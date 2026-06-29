@@ -502,7 +502,7 @@
           }
         },
         "$type": "fontSizes",
-        "$value": "{scale.5a}",
+        "$value": "{scale.custom.5a}",
         "$description": "Text xl."
       },
       "2xl": {
