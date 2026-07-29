@@ -82,6 +82,10 @@
       "900": {
         "$type": "color",
         "$value": "#0f3d42"
+      },
+      "1000": {
+        "$type": "color",
+        "$value": "#081f21"
       }
     },
     "neutral": {
