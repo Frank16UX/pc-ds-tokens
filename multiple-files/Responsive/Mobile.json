@@ -103,6 +103,38 @@
         "$description": "$mobile-typography-headline-sm — Use for small section headlines and card titles."
       }
     },
+    "stats": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.secondary}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{typescale.font-size.6xl}",
+          "lineHeight": "100%"
+        },
+        "$description": "$mobile-typography-stats-lg — Use it to show big stats numbers."
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.secondary}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{typescale.font-size.4xl}",
+          "lineHeight": "100%"
+        },
+        "$description": "$mobile-typography-stats-md — Use it to stats up to 4 digits within donut/circle charts."
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family.secondary}",
+          "fontWeight": "{font-weight.medium}",
+          "fontSize": "{typescale.font-size.2xl}",
+          "lineHeight": "100%"
+        },
+        "$description": "$mobile-typography-stats-sm — Use it to show numbers with more digits. Also to represent decimals and % symbol."
+      }
+    },
     "price": {
       "lg": {
         "$type": "typography",
