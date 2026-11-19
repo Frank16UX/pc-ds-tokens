@@ -4137,6 +4137,19 @@
             }
           },
           "$type": "dimension",
+          "$value": "{scale.14}",
+          "$description": "(56px). Fixed height for default row size."
+        },
+        "2xl": {
+          "$extensions": {
+            "com.figma.scopes": [
+              "WIDTH_HEIGHT"
+            ],
+            "com.figma.codeSyntax": {
+              "Web": "$size-height-2xl"
+            }
+          },
+          "$type": "dimension",
           "$value": "{scale.18}",
           "$description": "(72px). Height for xl icon buttons and chips."
         },
